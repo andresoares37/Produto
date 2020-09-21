@@ -1,0 +1,13 @@
+C:\Users\a.soares.dos.santos\source\repos\Produto\bin\Debug\netcoreapp3.1\Produto.exe
+C:\Users\a.soares.dos.santos\source\repos\Produto\bin\Debug\netcoreapp3.1\Produto.deps.json
+C:\Users\a.soares.dos.santos\source\repos\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.json
+C:\Users\a.soares.dos.santos\source\repos\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.dev.json
+C:\Users\a.soares.dos.santos\source\repos\Produto\bin\Debug\netcoreapp3.1\Produto.dll
+C:\Users\a.soares.dos.santos\source\repos\Produto\bin\Debug\netcoreapp3.1\Produto.pdb
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.csprojAssemblyReference.cache
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfoInputs.cache
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfo.cs
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.csproj.CoreCompileInputs.cache
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.dll
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.pdb
+C:\Users\a.soares.dos.santos\source\repos\Produto\obj\Debug\netcoreapp3.1\Produto.genruntimeconfig.cache
