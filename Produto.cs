@@ -7,25 +7,31 @@ namespace Produto
 {
     public class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
-        public Produto()
+        public Produto(string nome, double preco, int quantidade)
         {
-            Quantidade = 10;
-        }
-
-        public Produto(string nome, double preco) : this()
-        {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
-        }
-
-        public Produto(int quantidade) : this("TV", 900.00)
-        {
             Quantidade = quantidade;
         }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+
+            }
+        }
+
+
         public double ValorEstoque()
         {
             return Preco * Quantidade;
